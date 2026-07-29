@@ -362,9 +362,13 @@ An AI meeting assistant that converts unstructured meeting transcripts into stru
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uswakhan12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uswakhan12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uswakhan12&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uswakhan12&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 </p>
 
