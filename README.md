@@ -358,37 +358,11 @@ An AI meeting assistant that converts unstructured meeting transcripts into stru
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uswakhan12&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uswakhan12&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=uswakhan12&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=uswakhan12&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
