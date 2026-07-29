@@ -59,9 +59,6 @@ I enjoy building products that move beyond research papers into practical, deplo
 - 👁️ Computer Vision
 - 📸 Multimodal AI
 - 🚁 Autonomous Robotics
-- 📦 AI Security
-- 📱 Edge AI
-- ⚡ Offline AI Systems
 
 ---
 
@@ -78,8 +75,6 @@ I enjoy building products that move beyond research papers into practical, deplo
 <img src="https://skillicons.dev/icons?i=cpp"/>
 
 <img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
@@ -108,8 +103,6 @@ I enjoy building products that move beyond research papers into practical, deplo
 - DeepFace
 - MediaPipe
 - Scikit-Learn
-- LoRA
-- GGUF
 - llama.cpp
 - RAG
 - Vector Databases
@@ -127,8 +120,6 @@ I enjoy building products that move beyond research papers into practical, deplo
 
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
 </p>
 
 ---
@@ -145,8 +136,6 @@ I enjoy building products that move beyond research papers into practical, deplo
 
 <img src="https://skillicons.dev/icons?i=css"/>
 
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
 </p>
 
 ---
@@ -158,10 +147,6 @@ I enjoy building products that move beyond research papers into practical, deplo
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
 
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
@@ -176,10 +161,6 @@ I enjoy building products that move beyond research papers into practical, deplo
 🚁 AI for Autonomous Robotics
 
 🧠 Agentic AI Systems
-
-📦 AI Security & Supply Chain Protection
-
-⚡ Efficient Edge AI Models
 
 📚 Research in Computer Vision
 
@@ -348,13 +329,9 @@ An AI meeting assistant that converts unstructured meeting transcripts into stru
 
 ✨ Beyond these featured repositories, I have worked on projects involving:
 
-- 🚁 Autonomous Drone Tracking
 - 🎯 YOLO-based Object Detection & Tracking
 - 🧠 Computer Vision Research
-- 📦 Edge AI Deployment
-- 📚 Recommendation Systems
 - 🤖 Robotics Applications
-- ⚡ Real-Time Inference Pipelines
 
 ---
 
@@ -388,12 +365,6 @@ An AI meeting assistant that converts unstructured meeting transcripts into stru
 
 👁️ Computer Vision & Vision-Language Models
 
-📦 AI Supply Chain Security
-
-⚡ Edge AI Deployment
-
-📱 Offline AI Assistants
-
 📚 AI Research
 
 ---
@@ -405,9 +376,7 @@ An AI meeting assistant that converts unstructured meeting transcripts into stru
 - Robotics
 - AI Research
 - LLM Applications
-- AI Security
 - Open Source AI
-- Edge AI
 - AI for Healthcare
 
 ---
@@ -418,7 +387,6 @@ An AI meeting assistant that converts unstructured meeting transcripts into stru
 - Vision-Language Models (VLMs)
 - AI Agents & Tool Use
 - Autonomous Systems
-- Distributed AI
 - AI Safety
 
 ---
